@@ -1,6 +1,6 @@
 # DotPoint
 
-Video game coded in C++ using the SFML graphics library
+Video game coded in C++ using the SFML graphics library. Running this code will require you to have the SFML library and frameworks installed
 
 # Gameplay
 Rules of the game are similar to the snake game. Your character (the dot) must move around and collect coins in time. If a time limit for collecting a coin is exceeded, you lose
